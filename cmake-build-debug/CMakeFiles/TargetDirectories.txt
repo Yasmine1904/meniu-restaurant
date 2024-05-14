@@ -1,0 +1,3 @@
+C:/Users/Yasmine/CLionProjects/lab9-10POO/cmake-build-debug/CMakeFiles/lab9_10POO.dir
+C:/Users/Yasmine/CLionProjects/lab9-10POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yasmine/CLionProjects/lab9-10POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
